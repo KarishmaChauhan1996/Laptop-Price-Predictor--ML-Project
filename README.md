@@ -4,6 +4,7 @@ This project builds a machine learning model to predict the price of laptops bas
 We experiment with a range of regression algorithms, evaluate their performance, and identify the best-performing model using metrics like R² Score and Mean Absolute Error (MAE).
 By training multiple regression models and comparing their performances, we aim to find the most accurate model for laptop price prediction.
 The goal of the project is to predict laptop prices using features like:
+
  1 Company          
  2   TypeName          
  3   Inches          
