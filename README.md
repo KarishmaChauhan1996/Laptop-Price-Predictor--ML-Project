@@ -38,11 +38,11 @@ We used the following metrics to evaluate model performance:
 - Mean Absolute Error (MAE): Measures the average absolute difference between predicted and actual values (lower is better).
 
 ### How to Run
-Clone the repository
-Install dependencies.
-run training script.
-Evaluate Model.
-Run the prediction app(not deployed)
+- Clone the repository
+- Install dependencies.
+- Run training script.
+- Evaluate Model.
+- Run the prediction app(not deployed)
 
 ### Future Enhancements
 
